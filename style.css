@@ -148,3 +148,50 @@ ul {
     font-weight: bolder;
     font-size: 18px;
 }
+
+.parte-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    padding: 100px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: maroon;
+    border-radius: 20px;
+    padding: 0px 80px 0px 80px;
+    width: 700px;
+    height: 130px;
+    border: 3px solid rgb(156, 101, 101);
+}
+
+.container-texto-4 {
+    width: 500px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.parte-4 button {
+    background-color: aliceblue;
+    color: rgb(156, 101, 101);
+    font-weight: 900;
+    border: 3px solid aliceblue;
+    border-radius: 10px;
+    width: 90px;
+    height: 30px;
+}
+
+.titulo-4 {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.conteudo-4 {
+    font-size: 14px;
+}
