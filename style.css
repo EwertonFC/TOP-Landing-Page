@@ -195,3 +195,13 @@ ul {
 .conteudo-4 {
     font-size: 14px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    font-size: 18px;
+    color: maroon;
+    background-color: rgb(156, 101, 101);
+}
